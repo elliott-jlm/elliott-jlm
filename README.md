@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @elliott-jlm
 - I'm a french engineering student in Data Science at EFREI Paris. 
-- I'm currently on an intership at Allianz IARD. I work as a Data Scientist.
 
 
 <!---
