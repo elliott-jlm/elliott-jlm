@@ -1,5 +1,8 @@
-- 👋 Hi, I’m @elliott-jlm
-- I'm a french engineering student in Data Science at EFREI Paris. 
+👋 Hi, I’m @elliott-jlm, 
+a computer engineer specialized in Data Science & AI. 
+I work in the banking sector in Data Science & Analytics, 
+based in Paris. 
+Passionate about software development, especially mobile app creation in my free time.
 
 
 <!---
